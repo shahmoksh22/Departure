@@ -13,7 +13,7 @@
 -   Recognizing the diversity of languages in which the Bhagvat Geeta has been translated, "Departure" is a multi-language app. It provides support for various languages, enabling users to read and study the Bhagvat Geeta in their preferred language, making the app inclusive and accessible to a wider audience.
 
 # Here is the screen-shots of the app
-
+<p align="center">
 <img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/SplashScreen.png" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/HomeScreen1.png" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/HomeScreen2.png" alt="App Screenshot" width="200" height="400"/>
@@ -23,3 +23,4 @@
 <img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/verse.png" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/savebookmark.png" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/fav.png" alt="App Screenshot" width="200" height="400"/>
+</p>
