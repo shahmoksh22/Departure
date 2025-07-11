@@ -14,12 +14,12 @@
 
 # Here is the screen-shots of the app
 
-<img src="https://github.com/shahmoksh22/Departure/bhagavad_gita/ScreenShot/SplashScreen.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/shahmoksh22/Departure/bhagavad_gita/ScreenShot/HomeScreen1.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/shahmoksh22/Departure/bhagavad_gita/ScreenShot/HomeScreen2.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/shahmoksh22/Departure/bhagavad_gita/ScreenShot/Favorite.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/shahmoksh22/Departure/bhagavad_gita/ScreenShot/BookMark.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/shahmoksh22/Departure/bhagavad_gita/ScreenShot/chatper.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/shahmoksh22/Departure/bhagavad_gita/ScreenShot/verse.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/shahmoksh22/Departure/bhagavad_gita/ScreenShot/savebookmark.png" alt="App Screenshot" width="200" height="400"/>
-<img src="https://github.com/shahmoksh22/Departure/bhagavad_gita/ScreenShot/fav.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/SplashScreen.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/HomeScreen1.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/HomeScreen2.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/Favorite.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/BookMark.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/chatper.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/verse.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/savebookmark.png" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/shahmoksh22/Departure/blob/main/bhagavad_gita/ScreenShot/fav.png" alt="App Screenshot" width="200" height="400"/>
